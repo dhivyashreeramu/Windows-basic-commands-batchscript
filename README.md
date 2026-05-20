@@ -43,27 +43,36 @@ Create the file Rose.txt
 
 
 Create the file hello.txt using echo and redirection
+
+
 ![alt text](image-3.png)
 
 
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
+
+
 ![alt text](image-4.png)
 
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
+
+
 ![alt text](image-5.png)
 
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
+
+
 ![alt text](image-6.png)
 
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
+
 ![alt text](image-7.png)
 ![alt text](image-8.png)
 
@@ -71,6 +80,8 @@ List out all the associated file extensions
 
 
 Compare the file hello.txt and rose.txt
+
+
 ![alt text](image-9.png)
 
 ## COMMAND AND OUTPUT
